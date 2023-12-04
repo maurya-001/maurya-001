@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @maurya-001
+- 👋 Hi, I’m Ayush Maurya
 - 👀 I’m interested in  MERN, DSA and life in general
 - 🌱 I’m currently learning  MERN
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me ... Linkedin  - https://www.linkedin.com/in/ayush-maurya-a74b8a248/
+- 📫 How to reach me ...
+- Mail - ayushmauryaex@gmail.com
+-  Linkedin  - https://www.linkedin.com/in/ayush-maurya-a74b8a248/
 - twritter - https://twitter.com/AyushMa26091960
   
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Maurya
 - 👀 I’m interested in  MERN, DSA and life in general
-- 🌱 I’m currently learning  MERN
+- 🌱 I’m currently learning  MERN and DSA
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me ...
 - Mail - ayushmauryaex@gmail.com

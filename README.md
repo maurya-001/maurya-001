@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me ...
 - Mail - ayushmauryaex@gmail.com
+         ayush.maurya22@vit.edu
 -  Linkedin  - https://www.linkedin.com/in/ayush-maurya-a74b8a248/
 - twritter - https://twitter.com/AyushMa26091960
   
